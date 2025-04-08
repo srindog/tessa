@@ -1,0 +1,31 @@
+{
+    "Software Engineering": {
+        "Software Engineer": 1,
+        "Senior Software Engineer": 0.15, 
+        "Staff Engineer": 0.05, 
+        "Senior Staff Software Engineer": 0.05, 
+        "Principal Engineer": 0, 
+        "Engineering Manager": 0.2, 
+        "Senior Engineering Manager": 0.05, 
+        "Distinguished Engineer": 0.05, 
+        "Director of Engineering": 0.05, 
+        "Senior Director of Engineering": 0.05, 
+        "VP of Engineering": 0.05
+    },
+    "Product Management": {
+        "Product Manager": 0.4, 
+        "Senior Product Manager": 0.2, 
+        "Product Lead": 0.2, 
+        "Product Director": 0.1,
+        "Senior Director of Product": 0.05,
+        "VP of Product": 0.05
+    },
+    "Investment Banking": {
+        "Investment Banking Analyst": 0.35, 
+        "Investment Banking Associate": 0.25, 
+        "Vice President Investment Banking": 0.2, 
+        "Senior Vice President Investment Banking": 0.075,
+        "Investment Banking Director": 0.075, 
+        "Managing Director": 0.05
+    }
+}

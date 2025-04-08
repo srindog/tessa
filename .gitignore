@@ -35,3 +35,10 @@ local
 
 # vercel
 .vercel
+config.py
+venv/
+**/__pycache__
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
